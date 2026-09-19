@@ -24,7 +24,7 @@ Codename:       jammy
 ```
 
 ## 2. Установленные инструменты
-
+```
 git version 2.34.1
 Docker version 29.8.1, build 4a63305
 Docker Compose version v5.5.1
@@ -34,7 +34,7 @@ jq-1.6
 Client Version: v1.37.0
 Kustomize Version: v5.8.1
 v3.22.0+g144ca65
-
+```
 ## 3. Настройка Git
 
 ### 3.1. Конфигурация Git
